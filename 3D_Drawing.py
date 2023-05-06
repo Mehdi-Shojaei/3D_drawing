@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import SimpleITK as sitk
 from mpl_toolkits.mplot3d import Axes3D
 
 fig = plt.figure(figsize=(20, 10))  # increase figure size
